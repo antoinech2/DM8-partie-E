@@ -6,10 +6,11 @@
 # Encodage: UTF-8
 # Licence: GNU General Public License 3.0 (licence libre)
 # Version: Release 1.0.0
+# GitHub Repository : https://github.com/antoinech2/DM8-partie-E
 #
 # Description: Ce fichier contient les fonctions et les résultats de la
 # partie E du DM 8 de mathématiques. Toutes les explications sont données
-# en commentaire.
+# en commentaire. Exécuter le fichier affiche les résultats demandés.
 # DM par Julie BOUGLE et Antoine CHEUCLE
 ############################################
 
